@@ -1,8 +1,8 @@
-# MovieLog - Movie Tracking & Discovery App
+# CallMeMovie - Movie Tracking & Discovery App
 
 <p align="center">
   <a href="#">
-    <img src="public/images/logo-letter-c.png" alt="MovieLog Logo" width="120" height="120">
+    <img src="public/images/logo-letter-c.png" alt="CallMeMovie Logo" width="120" height="120">
   </a>
 </p>
 
@@ -35,9 +35,9 @@
 
 ## 🚀 Tentang Proyek
 
-**MovieLog** adalah aplikasi web yang dirancang untuk para pencinta film. Pengguna dapat menemukan, melacak, dan memberikan rating pada film-film favorit mereka. Proyek ini dibangun sebagai portofolio untuk menunjukkan kemampuan pengembangan web full-stack, dari backend yang kuat hingga antarmuka pengguna yang responsif, dengan integrasi data real-time dari The Movie Database (TMDb) API.
+**CallMeMovie** adalah aplikasi web yang dirancang untuk para pencinta film. Pengguna dapat menemukan, melacak, dan memberikan rating pada film-film favorit mereka. Proyek ini dibangun sebagai portofolio untuk menunjukkan kemampuan pengembangan web full-stack, dari backend yang kuat hingga antarmuka pengguna yang responsif, dengan integrasi data real-time dari The Movie Database (TMDb) API.
 
-![Screenshot Halaman Utama MovieLog](https://via.placeholder.com/1200x600.png?text=Ganti+dengan+Screenshot+Proyek+Anda)
+![Screenshot Halaman Utama CallMeMovie](https://via.placeholder.com/1200x600.png?text=Ganti+dengan+Screenshot+Proyek+Anda)
 *(Ganti gambar placeholder di atas dengan screenshot aplikasi Anda)*
 
 ---
@@ -105,7 +105,7 @@ Pastikan Anda memiliki PHP, Composer, dan Node.js terpasang di sistem Anda.
 6.  **Konfigurasi `.env`**
     Buka file `.env` dan atur koneksi database Anda (DB\_DATABASE, DB\_USERNAME, dll). Lalu, tambahkan kunci API dari TMDB Anda.
     ```env
-    APP_NAME=MovieLog
+    APP_NAME=CallMeMovie
     TMDB_API_KEY=MASUKKAN_KUNCI_API_TMDB_ANDA_DI_SINI
     ```
 
